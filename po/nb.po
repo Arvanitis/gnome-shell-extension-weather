@@ -1,260 +1,256 @@
-# French translations for PACKAGE package
-# Traductions françaises du paquet PACKAGE.
-# Copyright (C) 2011 THE PACKAGE'S COPYRIGHT HOLDER
+# Norwegian Bokmål translation for gnome-shell-extension-weather
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Simon Claessens <gagalago@gmail.com>, 2011.
-# ecyrbe <ecyrbe@gmail.com>, 2011.
+# Stian Ellingsen <stiell@stiell.org>, 2011.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 3.0.1\n"
+"Project-Id-Version: 3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-05-27 01:22+0200\n"
-"PO-Revision-Date: 2011-05-27 09:44+0200\n"
-"Last-Translator: ecyrbe <ecyrbe@gmail.com>\n"
-"Language-Team: Français <ecyrbe@gmail.com>\n"
-"Language: fr\n"
+"PO-Revision-Date: 2011-06-02 23:04+0200\n"
+"Last-Translator: Stian Ellingsen <stiell@stiell.org>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bits\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 #: extension.js:73
 msgid "..."
-msgstr "..."
+msgstr "…"
 
 #: extension.js:228
 msgid "Tornado"
-msgstr "Tornade"
+msgstr "Tornado"
 
 #: extension.js:230
 msgid "Tropical storm"
-msgstr "Tempête tropicale"
+msgstr "Tropisk storm"
 
 #: extension.js:232
 msgid "Hurricane"
-msgstr "Ouragan"
+msgstr "Orkan"
 
 #: extension.js:234
 msgid "Severe thunderstorms"
-msgstr "Orage sévère"
+msgstr "Kraftig tordenvær"
 
 #: extension.js:236
 msgid "Thunderstorms"
-msgstr "Orage"
+msgstr "Tordenvær"
 
 #: extension.js:238
 msgid "Mixed rain and snow"
-msgstr "Neige et pluie"
+msgstr "Regn og snø"
 
 #: extension.js:240
 msgid "Mixed rain and sleet"
-msgstr "Grêle et pluie"
+msgstr "Regn og sludd"
 
 #: extension.js:242
 msgid "Mixed snow and sleet"
-msgstr "Neige et Grêle"
+msgstr "Snø og sludd"
 
 #: extension.js:244
 msgid "Freezing drizzle"
-msgstr "Pluie verglaçante"
+msgstr "Underkjølt yr"
 
 #: extension.js:246
 msgid "Drizzle"
-msgstr "Pluie fine"
+msgstr "Yr"
 
 #: extension.js:248
 msgid "Freezing rain"
-msgstr "Pluie verglaçante"
+msgstr "Underkjølt regn"
 
 #: extension.js:250 extension.js:252
 msgid "Showers"
-msgstr "Averses"
+msgstr "Regnbyger"
 
 #: extension.js:254
 msgid "Snow flurries"
-msgstr "Neige"
+msgstr "Lett snøfall"
 
 #: extension.js:256
 msgid "Light snow showers"
-msgstr "Neige"
+msgstr "Lette snøbyger"
 
 #: extension.js:258
 msgid "Blowing snow"
-msgstr "Neige"
+msgstr "Snøføyke"
 
 #: extension.js:260
 msgid "Snow"
-msgstr "Neige"
+msgstr "Snø"
 
 #: extension.js:262
 msgid "Hail"
-msgstr "Grêle"
+msgstr "Hagl"
 
 #: extension.js:264
 msgid "Sleet"
-msgstr "Grêlons"
+msgstr "Sludd"
 
 #: extension.js:266
 msgid "Dust"
-msgstr "Brouillard"
+msgstr "Støv"
 
 #: extension.js:268
 msgid "Foggy"
-msgstr "Brouillard"
+msgstr "Tåke"
 
 #: extension.js:270
 msgid "Haze"
-msgstr "Brume"
+msgstr "Dis"
 
 #: extension.js:272
 msgid "Smoky"
-msgstr "Brouillard"
+msgstr "Røyk"
 
 #: extension.js:274
 msgid "Blustery"
-msgstr "Bourrasques de vent"
+msgstr "Vindbyger"
 
 #: extension.js:276
 msgid "Windy"
-msgstr "Venteux"
+msgstr "Vind"
 
 #: extension.js:278
 msgid "Cold"
-msgstr "Froid"
+msgstr "Kaldt"
 
 #: extension.js:280
 msgid "Cloudy"
-msgstr "Nuageux"
+msgstr "Skyet"
 
 #: extension.js:283
 msgid "Mostly cloudy"
-msgstr "Nuageux"
+msgstr "Stort sett skyet"
 
 #: extension.js:286 extension.js:312
 msgid "Partly cloudy"
-msgstr "Éclaircies"
+msgstr "Delvis skyet"
 
 #: extension.js:288
 msgid "Clear"
-msgstr "Beau"
+msgstr "Klarvær"
 
 #: extension.js:290
 msgid "Sunny"
-msgstr "Ensoleillé"
+msgstr "Sol"
 
 #: extension.js:293
 msgid "Fair"
-msgstr "Beau"
+msgstr "Lettskyet"
 
 #: extension.js:295
 msgid "Mixed rain and hail"
-msgstr "Pluie et Grêle"
+msgstr "Regn og hagl"
 
 #: extension.js:297
 msgid "Hot"
-msgstr "Chaud"
+msgstr "Varmt"
 
 #: extension.js:299
 msgid "Isolated thunderstorms"
-msgstr "Orageux"
+msgstr "Lokalt tordenvær"
 
 #: extension.js:302
 msgid "Scattered thunderstorms"
-msgstr "Orageux"
+msgstr "Spredt tordenvær"
 
 #: extension.js:304
 msgid "Scattered showers"
-msgstr "Grosses averses"
+msgstr "Spredte regnbyger"
 
 #: extension.js:306 extension.js:310
 msgid "Heavy snow"
-msgstr "Tempête de neige"
+msgstr "Kraftig snøfall"
 
 #: extension.js:308
 msgid "Scattered snow showers"
-msgstr "Tempête de neige"
+msgstr "Spredte snøbyger"
 
 #: extension.js:314
 msgid "Thundershowers"
-msgstr "Orages"
+msgstr "Tordenbyger"
 
 #: extension.js:316
 msgid "Snow showers"
-msgstr "Tempête de neige"
+msgstr "Snøbyger"
 
 #: extension.js:318
 msgid "Isolated thundershowers"
-msgstr "Orageux"
+msgstr "Lokale tordenbyger"
 
 #: extension.js:321
 msgid "Not available"
-msgstr "Non disponible"
+msgstr "Ikke tilgjengelig"
 
 #: extension.js:336
 msgid "Monday"
-msgstr "Lundi"
+msgstr "mandag"
 
 #: extension.js:336
 msgid "Tuesday"
-msgstr "Mardi"
+msgstr "tirsdag"
 
 #: extension.js:336
 msgid "Wednesday"
-msgstr "Mercredi"
+msgstr "onsdag"
 
 #: extension.js:336
 msgid "Thursday"
-msgstr "Jeudi"
+msgstr "torsdag"
 
 #: extension.js:336
 msgid "Friday"
-msgstr "Vendredi"
+msgstr "fredag"
 
 #: extension.js:336
 msgid "Saturday"
-msgstr "Samedi"
+msgstr "lørdag"
 
 #: extension.js:336
 msgid "Sunday"
-msgstr "Dimanche"
+msgstr "søndag"
 
 #: extension.js:392
 msgid "Today"
-msgstr "Aujourd'hui"
+msgstr "I dag"
 
 #: extension.js:392
 msgid "Tomorrow"
-msgstr "Demain"
+msgstr "I morgen"
 
 #: extension.js:429
 msgid "Loading current weather ..."
-msgstr "Chargement de la météo ..."
+msgstr "Laster værobservasjon …"
 
 #: extension.js:430
 msgid "Loading future weather ..."
-msgstr "Chargement des prévisions ..."
+msgstr "Laster værvarsel …"
 
 #: extension.js:446
 msgid "Loading ..."
-msgstr "Chargement ..."
+msgstr "Laster …"
 
 #: extension.js:449
 msgid "Please wait"
-msgstr "Patientez s'il vous plaît"
+msgstr "Vent litt"
 
 #: extension.js:467
 msgid "Temperature:"
-msgstr "Température :"
+msgstr "Temperatur:"
 
 #: extension.js:469
 msgid "Humidity:"
-msgstr "Humidité :"
+msgstr "Fuktighet:"
 
 #: extension.js:471
 msgid "Pressure:"
-msgstr "Pression :"
+msgstr "Lufttrykk:"
 
 #: extension.js:473
 msgid "Wind:"
-msgstr "Vent :"
+msgstr "Vind:"
