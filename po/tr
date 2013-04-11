@@ -1,0 +1,443 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-11 00:47+0100\n"
+"PO-Revision-Date: 2013-04-11 07:44+0200\n"
+"Last-Translator: Arvanitis <gbarin35@gmail.com>\n"
+"Language-Team: Arvanitis <gbarin35@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\\n\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+
+#: ../src/extension.js:128
+msgid "..."
+msgstr "..."
+
+#: ../src/extension.js:208
+msgid "Locations"
+msgstr "Konumlar"
+
+#: ../src/extension.js:212
+msgid "Reload Weather Information"
+msgstr "Hava Durumu Bilgilerini Tekrar Yükle"
+
+#: ../src/extension.js:216
+msgid "Weather Settings"
+msgstr "Hava Durumu Ayarları"
+
+#: ../src/extension.js:242
+#, python-format
+msgid "Schema \"%s\" not found."
+msgstr "\"%s\" şeması bulunamadı."
+
+#: ../src/extension.js:523
+#: ../src/prefs.js:756
+msgid "Invalid city"
+msgstr "Geçersiz şehir"
+
+#: ../src/extension.js:738
+msgid "Tornado"
+msgstr "Hortum"
+
+#: ../src/extension.js:740
+msgid "Tropical storm"
+msgstr "Tropik Fırtına"
+
+#: ../src/extension.js:742
+#: ../src/extension.js:914
+msgid "Hurricane"
+msgstr "Kasırga"
+
+#: ../src/extension.js:744
+msgid "Severe thunderstorms"
+msgstr "Şiddetli gök gürültülü fırtına"
+
+#: ../src/extension.js:746
+msgid "Thunderstorms"
+msgstr "Gök gürültülü fırtına"
+
+#: ../src/extension.js:748
+msgid "Mixed rain and snow"
+msgstr "Karla karışık yağmur"
+
+#: ../src/extension.js:750
+msgid "Mixed rain and sleet"
+msgstr "Yağmurla karışık sulu sepken"
+
+#: ../src/extension.js:752
+msgid "Mixed snow and sleet"
+msgstr "Karla karışık sulu sepken"
+
+#: ../src/extension.js:754
+msgid "Freezing drizzle"
+msgstr "Soğuk çisenti"
+
+#: ../src/extension.js:756
+msgid "Drizzle"
+msgstr "Çisenti"
+
+#: ../src/extension.js:758
+msgid "Freezing rain"
+msgstr "Soğuk yağmur"
+
+#: ../src/extension.js:760
+#: ../src/extension.js:762
+msgid "Showers"
+msgstr "Kısa aralıklı yağış"
+
+#: ../src/extension.js:764
+msgid "Snow flurries"
+msgstr "Kar fırtınası"
+
+#: ../src/extension.js:766
+msgid "Light snow showers"
+msgstr "Hafifi kar yağışı"
+
+#: ../src/extension.js:768
+msgid "Blowing snow"
+msgstr "Tipi"
+
+#: ../src/extension.js:770
+msgid "Snow"
+msgstr "Kar"
+
+#: ../src/extension.js:772
+msgid "Hail"
+msgstr "Dolu"
+
+#: ../src/extension.js:774
+msgid "Sleet"
+msgstr "Sulu sepken"
+
+#: ../src/extension.js:776
+msgid "Dust"
+msgstr "Toz"
+
+#: ../src/extension.js:778
+msgid "Foggy"
+msgstr "Sisli"
+
+#: ../src/extension.js:780
+msgid "Haze"
+msgstr "Puslu"
+
+#: ../src/extension.js:782
+msgid "Smoky"
+msgstr "Dumanlı"
+
+#: ../src/extension.js:784
+msgid "Blustery"
+msgstr "Sert rüzgarlı"
+
+#: ../src/extension.js:786
+msgid "Windy"
+msgstr "Rüzgarlı"
+
+#: ../src/extension.js:788
+msgid "Cold"
+msgstr "Soğuk"
+
+#: ../src/extension.js:790
+msgid "Cloudy"
+msgstr "Bulutlu"
+
+#: ../src/extension.js:793
+msgid "Mostly cloudy"
+msgstr "Çok bulutlu"
+
+#: ../src/extension.js:796
+#: ../src/extension.js:822
+msgid "Partly cloudy"
+msgstr "Parçalı bulutlu"
+
+#: ../src/extension.js:798
+msgid "Clear"
+msgstr "Açık"
+
+#: ../src/extension.js:800
+msgid "Sunny"
+msgstr "Güneşli"
+
+#: ../src/extension.js:803
+msgid "Fair"
+msgstr "Açık ve güneşli hava"
+
+#: ../src/extension.js:805
+msgid "Mixed rain and hail"
+msgstr "Yağmur ve dolu karışık"
+
+#: ../src/extension.js:807
+msgid "Hot"
+msgstr "Sıcak"
+
+#: ../src/extension.js:809
+msgid "Isolated thunderstorms"
+msgstr "Kısmi gök gürültülü fırtına"
+
+#: ../src/extension.js:812
+msgid "Scattered thunderstorms"
+msgstr "Aralıklı gök gürültülü fırtına"
+
+#: ../src/extension.js:814
+msgid "Scattered showers"
+msgstr "Aralıklı sağnak yağış"
+
+#: ../src/extension.js:816
+#: ../src/extension.js:820
+msgid "Heavy snow"
+msgstr "Yoğun kar yağışı"
+
+#: ../src/extension.js:818
+msgid "Scattered snow showers"
+msgstr "Aralıklı sağnak kar yağışı"
+
+#: ../src/extension.js:824
+msgid "Thundershowers"
+msgstr "Gök gürültülü sağnak yağış"
+
+#: ../src/extension.js:826
+msgid "Snow showers"
+msgstr "Kısa aralıklı kar yağışı"
+
+#: ../src/extension.js:828
+msgid "Isolated thundershowers"
+msgstr "Kısmi gök gürültülü sağnak yağış"
+
+#: ../src/extension.js:831
+msgid "Not available"
+msgstr "Mevcut değil"
+
+#: ../src/extension.js:878
+msgid "Calm"
+msgstr "Sakin"
+
+#: ../src/extension.js:881
+msgid "Light air"
+msgstr "Hafif meltem"
+
+#: ../src/extension.js:884
+msgid "Light breeze"
+msgstr "Hafif rüzgar"
+
+#: ../src/extension.js:887
+msgid "Gentle breeze"
+msgstr "Yumuşak rüzgar"
+
+#: ../src/extension.js:890
+msgid "Moderate breeze"
+msgstr "Orta kuvvette rüzgar"
+
+#: ../src/extension.js:893
+msgid "Fresh breeze"
+msgstr "Şiddetli rüzgar"
+
+#: ../src/extension.js:896
+msgid "Strong breeze"
+msgstr "Sert rüzgar"
+
+#: ../src/extension.js:899
+msgid "Moderate gale"
+msgstr "Orta kuvvette bora"
+
+#: ../src/extension.js:902
+msgid "Fresh gale"
+msgstr "Şiddetli bora"
+
+#: ../src/extension.js:905
+msgid "Strong gale"
+msgstr "Kuvvetli bora"
+
+#: ../src/extension.js:908
+msgid "Storm"
+msgstr "Fırtına"
+
+#: ../src/extension.js:911
+msgid "Violent storm"
+msgstr "Kuvvetli fırtına"
+
+#: ../src/extension.js:919
+msgid "Sunday"
+msgstr "Pazar"
+
+#: ../src/extension.js:919
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: ../src/extension.js:919
+msgid "Tuesday"
+msgstr "Salı"
+
+#: ../src/extension.js:919
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: ../src/extension.js:919
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: ../src/extension.js:919
+msgid "Friday"
+msgstr "Cuma"
+
+#: ../src/extension.js:919
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: ../src/extension.js:926
+msgid "N"
+msgstr "K"
+
+#: ../src/extension.js:926
+msgid "NE"
+msgstr "KD"
+
+#: ../src/extension.js:926
+msgid "E"
+msgstr "D"
+
+#: ../src/extension.js:926
+msgid "SE"
+msgstr "GD"
+
+#: ../src/extension.js:926
+msgid "S"
+msgstr "G"
+
+#: ../src/extension.js:926
+msgid "SW"
+msgstr "GB"
+
+#: ../src/extension.js:926
+msgid "W"
+msgstr "B"
+
+#: ../src/extension.js:926
+msgid "NW"
+msgstr "KB"
+
+#: ../src/extension.js:1208
+#: ../src/extension.js:1337
+msgid "Yesterday"
+msgstr "Dün"
+
+#: ../src/extension.js:1210
+#: ../src/extension.js:1339
+#, python-format
+msgid "%s days ago"
+msgstr "%s gün önce"
+
+#: ../src/extension.js:1331
+msgid "Today"
+msgstr "Bugün"
+
+#: ../src/extension.js:1333
+msgid "Tomorrow"
+msgstr "Yarın"
+
+#: ../src/extension.js:1335
+#, python-format
+msgid "In %s days"
+msgstr "%s gün içinde"
+
+#: ../src/extension.js:1371
+msgid "Loading current weather ..."
+msgstr "Şuanki hava durumu yükleniyor ..."
+
+#: ../src/extension.js:1372
+msgid "Loading future weather ..."
+msgstr "İleriki hava durumu yükleniyor ..."
+
+#: ../src/extension.js:1405
+msgid "Loading ..."
+msgstr "Yükleniyor ..."
+
+#: ../src/extension.js:1408
+msgid "Please wait"
+msgstr "Lütfen bekleyin"
+
+#: ../src/extension.js:1453
+msgid "Feels like:"
+msgstr "Hissedilen:"
+
+#: ../src/extension.js:1455
+msgid "Humidity:"
+msgstr "Nem:"
+
+#: ../src/extension.js:1457
+msgid "Pressure:"
+msgstr "Basınç:"
+
+#: ../src/extension.js:1459
+msgid "Wind:"
+msgstr "Rüzgar:"
+
+#: ../src/prefs.js:124
+msgid "Temperature Unit"
+msgstr "Sıcaklık Birimi"
+
+#: ../src/prefs.js:126
+msgid "Wind Speed Unit"
+msgstr "Rüzgar Hızı Birimi"
+
+#: ../src/prefs.js:128
+msgid "Pressure Unit"
+msgstr "Basınç Birimi"
+
+#: ../src/prefs.js:130
+msgid "Position in Panel"
+msgstr "Panelde Konum"
+
+#: ../src/prefs.js:131
+msgid "Center"
+msgstr "Orta"
+
+#: ../src/prefs.js:131
+msgid "Right"
+msgstr "Sağ"
+
+#: ../src/prefs.js:131
+msgid "Left"
+msgstr "Sol"
+
+#: ../src/prefs.js:132
+msgid "Wind Direction by Arrows"
+msgstr "Oklarla Rüzgar Yönü"
+
+#: ../src/prefs.js:134
+msgid "Translate Conditions"
+msgstr "Koşulları Çevir"
+
+#: ../src/prefs.js:136
+msgid "Symbolic Icons"
+msgstr "Semboller"
+
+#: ../src/prefs.js:138
+msgid "Temperature in Panel"
+msgstr "Panelde Sıcaklık"
+
+#: ../src/prefs.js:140
+msgid "Conditions in Panel"
+msgstr "Panelde Koşullar"
+
+#: ../src/prefs.js:142
+msgid "Wind in Panel"
+msgstr "Panelde Rüzgar"
+
+#: ../src/prefs.js:277
+msgid "Name of the city"
+msgstr "Şehir adı"
+
+#: ../src/prefs.js:452
+#, python-format
+msgid "Remove %s ?"
+msgstr "%s sileyim mi?"
