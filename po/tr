@@ -1,0 +1,234 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-30 16:08+0200\n"
+"PO-Revision-Date: 2013-04-11 18:59+0200\n"
+"Last-Translator: Arvanitis <gbarin35@gmail.com>\n"
+"Language-Team: Arvanitis <gbarin35@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\\n\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+
+#, python-format
+msgid "Schema \"%s\" not found."
+msgstr "\"%s\" şeması bulunamadı."
+
+msgid "..."
+msgstr "..."
+
+msgid "Tornado"
+msgstr "Hortum"
+
+msgid "Tropical storm"
+msgstr "Tropik Fırtına"
+
+msgid "Hurricane"
+msgstr "Kasırga"
+
+msgid "Severe thunderstorms"
+msgstr "Şiddetli gök gürültülü fırtına"
+
+msgid "Thunderstorms"
+msgstr "Gök gürültülü fırtına"
+
+msgid "Mixed rain and snow"
+msgstr "Karla karışık yağmur"
+
+msgid "Mixed rain and sleet"
+msgstr "Yağmurla karışık sulu sepken"
+
+msgid "Mixed snow and sleet"
+msgstr "Karla karışık sulu sepken"
+
+msgid "Freezing drizzle"
+msgstr "Soğuk çisenti"
+
+msgid "Drizzle"
+msgstr "Çisenti"
+
+msgid "Freezing rain"
+msgstr "Soğuk yağmur"
+
+msgid "Showers"
+msgstr "Kısa aralıklı yağış"
+
+msgid "Snow flurries"
+msgstr "Kar fırtınası"
+
+msgid "Light snow showers"
+msgstr "Hafifi kar yağışı"
+
+msgid "Blowing snow"
+msgstr "Tipi"
+
+msgid "Snow"
+msgstr "Kar"
+
+msgid "Hail"
+msgstr "Dolu"
+
+msgid "Sleet"
+msgstr "Sulu sepken"
+
+msgid "Dust"
+msgstr "Toz"
+
+msgid "Foggy"
+msgstr "Sisli"
+
+msgid "Haze"
+msgstr "Puslu"
+
+msgid "Smoky"
+msgstr "Dumanlı"
+
+msgid "Blustery"
+msgstr "Sert rüzgarlı"
+
+msgid "Windy"
+msgstr "Rüzgarlı"
+
+msgid "Cold"
+msgstr "Soğuk"
+
+msgid "Cloudy"
+msgstr "Bulutlu"
+
+msgid "Mostly cloudy"
+msgstr "Çok bulutlu"
+
+msgid "Partly cloudy"
+msgstr "Parçalı bulutlu"
+
+msgid "Clear"
+msgstr "Açık"
+
+msgid "Sunny"
+msgstr "Güneşli"
+
+msgid "Fair"
+msgstr "Açık hava"
+
+msgid "Mixed rain and hail"
+msgstr "Yağmur ve dolu karışık"
+
+msgid "Hot"
+msgstr "Sıcak"
+
+msgid "Isolated thunderstorms"
+msgstr "Kısmi gök gürültülü fırtına"
+
+msgid "Scattered thunderstorms"
+msgstr "Aralıklı gök gürültülü fırtına"
+
+msgid "Scattered showers"
+msgstr "Aralıklı sağnak yağış"
+
+msgid "Heavy snow"
+msgstr "Yoğun kar yağışı"
+
+msgid "Scattered snow showers"
+msgstr "Aralıklı sağnak kar yağışı"
+
+msgid "Thundershowers"
+msgstr "Gök gürültülü sağnak yağış"
+
+msgid "Snow showers"
+msgstr "Kısa aralıklı kar yağışı"
+
+msgid "Isolated thundershowers"
+msgstr "Kısmi gök gürültülü sağnak yağış"
+
+msgid "Not available"
+msgstr "Mevcut değil"
+
+msgid "Monday"
+msgstr "Pazartesi"
+
+msgid "Tuesday"
+msgstr "Salı"
+
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+msgid "Thursday"
+msgstr "Perşembe"
+
+msgid "Friday"
+msgstr "Cuma"
+
+msgid "Saturday"
+msgstr "Cumartesi"
+
+msgid "Sunday"
+msgstr "Pazar"
+
+msgid "N"
+msgstr "K"
+
+msgid "NE"
+msgstr "KD"
+
+msgid "E"
+msgstr "D"
+
+msgid "SE"
+msgstr "GD"
+
+msgid "S"
+msgstr "G"
+
+msgid "SW"
+msgstr "GB"
+
+msgid "W"
+msgstr "B"
+
+msgid "NW"
+msgstr "KB"
+
+msgid "Today"
+msgstr "Bugün"
+
+msgid "Tomorrow"
+msgstr "Yarın"
+
+msgid "Loading current weather ..."
+msgstr "Şuanki hava durumu yükleniyor ..."
+
+msgid "Loading future weather ..."
+msgstr "İleriki hava durumu yükleniyor ..."
+
+msgid "Loading ..."
+msgstr "Yükleniyor ..."
+
+msgid "Please wait"
+msgstr "Lütfen bekleyin"
+
+msgid "Sunrise"
+msgstr "Gün doğumu"
+
+msgid "Sunset"
+msgstr "Gün batımı"
+
+msgid "Temperature:"
+msgstr "Sıcaklık:"
+
+msgid "Humidity:"
+msgstr "Nem:"
+
+msgid "Pressure:"
+msgstr "Basınç:"
+
+msgid "Wind:"
+msgstr "Rüzgar:"
